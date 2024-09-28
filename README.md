@@ -10,3 +10,14 @@ produced by the teacher and print their own achievement score report according t
 selected only. </li>
 </ul>
  </p>
+
+<h2>Objectives</h2>
+<ul><li>Allowing teachers to prepare various sets of quizzes consisting of 
+multiple choice questions for students</li>
+<li>Check the answers, calculate the marks and determine the student's grade for each 
+quizzes taken automatically.</li>
+<li>Generate student achievement score reports to facilitate monitoring
+and comparison of student performance by teachers</li>
+<li>Eliminate data redundancy and guarantee data integrity and save 
+all questions, grading records and user data in one database 
+normalized data</li>
