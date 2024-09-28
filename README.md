@@ -1,5 +1,5 @@
 ![slido-blog-cover-1600x1066px-4](https://github.com/user-attachments/assets/907b4392-c686-4cb3-81b4-996aadf0fa35)
-<h1 align="center">Bahasa Melayu Quiz System</h1>
+<h1 align="center" height="200px" width="350px">Bahasa Melayu Quiz System</h1>
 <h2>Description</h2>
 
 <p>Bahasa Melayu quiz system is created using HTML, CSS, PHP, SQL and Javascript. This system can work in a local network, example in the school area. 
