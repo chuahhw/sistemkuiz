@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/907b4392-c686-4cb3-81b4-996aadf0fa35" height="200px" width="350px">
+<img src="https://github.com/user-attachments/assets/907b4392-c686-4cb3-81b4-996aadf0fa35" height="200px" >
 <h1>Bahasa Melayu Quiz System</h1>
 <h2>Description</h2>
 
